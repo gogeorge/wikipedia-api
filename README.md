@@ -1,6 +1,6 @@
 # wikipedia-api
 
-This script is made specifically to check if a celebrity had parents who divorced and if the celebrity had a divorce later in life. With the data that I gathered I then wrote this [article](https://gogeorge.github.io/other/blog/celebrities-with-divorced-parents-are-more-likely-to-divorce.html).
+This script is made specifically to check if a celebrity had parents who divorced and if the celebrity had a divorce later in life. With the data that I gathered I then wrote this [article](https://theglobalaffairs.com/2018/01/15/celebrities-with-divorced-parents-are-more-likely-to-divorce-later-in-life/).
 
 ## Gathering Data
 
